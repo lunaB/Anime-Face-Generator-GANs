@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1501e5-0e18-4dc0-8f56-3ad759f7d149" name="Default Changelist" comment="" />
+    <list default="true" id="ee1501e5-0e18-4dc0-8f56-3ad759f7d149" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/create_sample_gray_DNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gans_gray_scale_DNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_data/discriminator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_data/gan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_data/generator.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,32 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_sample_gray_DNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-              <folding>
-                <element signature="e#17#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gans_gray_scale_DNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="175" column="4" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
-              <folding>
-                <element signature="e#17#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,11 +46,6 @@
             <path>
               <item name="Anime-Face-Generator-GANs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Anime-Face-Generator-GANs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anime-Face-Generator-GANs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anime-Face-Generator-GANs" type="462c0819:PsiDirectoryNode" />
-              <item name="model_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Anime-Face-Generator-GANs" type="b2602c69:ProjectViewProjectNode" />
@@ -114,7 +90,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="115" width="1579" height="864" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26572528" />
@@ -149,7 +124,7 @@
     <entry file="file://$PROJECT_DIR$/gans_gray_scale_DNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25">
-          <caret line="175" column="4" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+          <caret line="175" column="4" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
           <folding>
             <element signature="e#17#38#0" expanded="true" />
           </folding>
