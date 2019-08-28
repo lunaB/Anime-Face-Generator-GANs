@@ -26,8 +26,7 @@ This `project` directory should look like:
         ├── gan.json
         └── generator.json
 
-
-<img src='sample/animation_color_CNN.gif'><br>
 <img src='sample/animation_gray_DNN.gif'><br>
+<img src='sample/animation_color_CNN.gif'><br>
 
 <img src='sample/gan_generated_image_epoch_600.png'><br>
