@@ -1,13 +1,15 @@
 # Anime-Face-Generator-GANs
-Annie Face Image Generator Using GANs
+Annie Face Image Generator Using GANsㄱ
 
 <img src='sample/animation_gray_DNN.gif'><img src='sample/animation_color_CNN.gif'>
 
-<img src='sample/gan_generated_image_epoch_600.png'><br>
-
 ### 설명
-솔직히 처음해보는거고 높은 수준의 프로젝트는 아닙니다. GANs를 이용해서 하는 
+처음하는 GANs를 이용해서 하는 프로젝트 입니다.
+높은수준이 아니지만 공부를 목적으로 하고 있기에 차후에 더나은 프로젝트로 돌아오겠습니다.
 
+### 사용한 데이터셋
+https://www.kaggle.com/soumikrakshit/anime-faces
+Kaggle의 데이터셋을 이용하였습니다.
 
 This `project` directory should look like:
 
@@ -29,3 +31,5 @@ This `project` directory should look like:
         ├── discriminator.json
         ├── gan.json
         └── generator.json
+
+<img src='sample/gan_generated_image_epoch_600.png'>
