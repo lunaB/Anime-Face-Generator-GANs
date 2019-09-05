@@ -1,5 +1,5 @@
 # Anime-Face-Generator-GANs
-Annie Face Image Generator Using GANsㄱ
+Annie Face Image Generator Using GANs
 
 <img src='sample/animation_gray_DNN.gif'><img src='sample/animation_color_CNN.gif'>
 
