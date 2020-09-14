@@ -1,8 +1,8 @@
 # Anime-Face-Generator-GANs
 Annie Face Image Generator Using GANs
 
-<img src='sample/animation_gray_DNN.gif'>
-<img src='sample/animation_color_CNN2.gif'>
+<img width=256 src='sample/animation_gray_DNN.gif'>
+<img width=256 src='sample/animation_color_CNN2.gif'>
 
 ### 설명
 처음하는 GANs를 이용해서 하는 프로젝트 입니다.
